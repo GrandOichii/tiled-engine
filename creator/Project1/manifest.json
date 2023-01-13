@@ -1,0 +1,13 @@
+{
+    "name": "Game1",
+    "project_name": "Project1",
+    "description": "This is the description of your game.\n\nAuthor: ihawk",
+    "spawn": {
+        "room_name": "asd",
+        "x_loc": 2,
+        "y_loc": 3
+    },
+    "rooms": {
+        "asd": "rooms\\asd.json"
+    }
+}

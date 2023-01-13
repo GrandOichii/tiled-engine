@@ -1,0 +1,17 @@
+{
+    "tileset": {
+        "a": {
+            "name": "wall",
+            "display_name": "Wall",
+            "passable": false,
+            "seethrough": false
+        },
+        "b": {
+            "name": "floor",
+            "display_name": "Floor",
+            "passable": true,
+            "seethrough": true
+        }
+    },
+    "layout": "aaaaaaaaaaaaaaaaaaaaa\nabbbbaaaaaaaaaaaaaaaa\nabbbbaaaaaaaaaaaaaaaa\nabbbbaaaaaaaaaaaaaaaa\nabbbbaaaaaaaaaaaaaaaa\nabbbbaaaaaaaaaaaaaaaa\nabbbbaaaaaaaaaaaaaaaa\nabbbbaaaaaaaaaaaaaaaa\naaaaaaaaaaaaaaaaaaaaa\naaaaaaaaaaaaaaaaaaaaa\naaaaaaaaaaaaaaaaaaaaa\naaaaaaaaaaaaaaaaaaaaa\naaaaaaaaaaaaaaaaaaaaa\naaaaaaaaaaaaaaaaaaaaa\naaaaaaaaaaaaaaaaaaaaa\naaaaaaaaaaaaaaaaaaaaa\naaaaaaaaaaaaaaaaaaaaa\naaaaaaaaaaaaaaaaaaaaa\naaaaaaaaaaaaaaaaaaaaa\naaaaaaaaaaaaaaaaaaaaa\naaaaaaaaaaaaaaaaaaaaa\n"
+}

@@ -1,0 +1,31 @@
+{
+  "error":  "error.png",
+  "tiles": {
+    "room1": {
+      "Tile1": "tile1.png",
+      "Tile2": "tile2.png",
+      "Tile3": "tile3.png",
+      "Tile4": "tile4.png",
+
+
+      "wall": "tile1.png",
+      "floor": "tile2.png",
+      "interactable": "tile3.png"
+    },
+    
+    "asd": {
+      "Tile1": "tile1.png",
+      "Tile2": "tile2.png",
+      "Tile3": "tile3.png",
+      "Tile4": "tile4.png",
+
+
+      "wall": "tile1.png",
+      "floor": "tile2.png",
+      "interactive": "tile3.png"
+    }
+  },
+  "player": {
+    "base": "player_base.png"
+  }
+} 

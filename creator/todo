@@ -1,0 +1,11 @@
+- tile deleting
+- room deleting
+- room renaming
+- adding rows and columns
+- tile copying
+- tile templates
+- project loading
+- asset saving
+- asset loading
+- add macros
+- validator for project name, room and tile names

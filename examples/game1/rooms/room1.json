@@ -1,0 +1,38 @@
+{
+    "tileset": {
+        "a": {
+            "name": "Tile1",
+            "display_name": "Wall",
+            "passable": false,
+            "seethrough": false
+        },
+        "b": {
+            "name": "Tile2",
+            "display_name": "Floor",
+            "passable": true,
+            "seethrough": true
+        },
+        "c": {
+            "name": "Tile3",
+            "display_name": "Lever",
+            "passable": false,
+            "seethrough": true,
+            "events": {
+                "script": "scripts/script1.lua",
+                "interact": "amogus1"
+            }
+        },
+        "d": {
+            "name": "Tile4",
+            "display_name": "Plate",
+            "passable": true,
+            "seethrough": true,
+            "events": {
+                "script": "scripts/script2.lua",
+                "step": "amogus2"
+            }
+        }
+    },
+    "layout": "aaaaaaaaa\nabcbbbbba\nabbbbbbba\nabbbbbbba\nabbbbbbba\naddddddda\naaaaaaaaa"
+    
+}

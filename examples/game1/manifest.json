@@ -1,0 +1,12 @@
+{
+    "name": "Example1",
+    "description": "This is an example.",
+    "spawn": {
+        "room_name": "room1",
+        "x_loc": 1,
+        "y_loc":  1
+    },
+    "rooms": {
+        "room1": "rooms/room1.json"
+    }
+}

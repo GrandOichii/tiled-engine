@@ -1,0 +1,33 @@
+{
+    "tileset": {
+        "a": {
+            "name": "interactive",
+            "display_name": "Interactive",
+            "passable": true,
+            "seethrough": true,
+            "events": {
+                "script": "scripts\\interactive_script.lua",
+                "step": "f1"
+            }
+        },
+        "b": {
+            "name": "wall",
+            "display_name": "Wall",
+            "passable": false,
+            "seethrough": false,
+            "events": {
+                "script": "scripts\\wall_script.lua"
+            }
+        },
+        "c": {
+            "name": "floor",
+            "display_name": "Floor",
+            "passable": true,
+            "seethrough": true,
+            "events": {
+                "script": "scripts\\floor_script.lua"
+            }
+        }
+    },
+    "layout": "bbbbbbbbbbbbbbbbbbbbb\nbcccccccabbbbbbbbbbbb\nbcccccccabbbbbbbbbbbb\nbcccccccabbbbbbbbbbbb\nbcccccccabbbbbbbbbbbb\nbcccccccabbbbbbbbbbbb\nbcccccccabbbbbbbbbbbb\nbbbbbbbbbbbbbbbbbbbbb\nbbbbbbbbbbbbbbbbbbbbb\nbbbbbbbbbbbbbbbbbbbbb\nbbbbbbbbbbbbbbbbbbbbb\nbbbbbbbbbbbbbbbbbbbbb\nbbbbbbbbbbbbbbbbbbbbb\nbbbbbbbbbbbbbbbbbbbbb\nbbbbbbbbbbbbbbbbbbbbb\nbbbbbbbbbbbbbbbbbbbbb\nbbbbbbbbbbbbbbbbbbbbb\nbbbbbbbbbbbbbbbbbbbbb\nbbbbbbbbbbbbbbbbbbbbb\nbbbbbbbbbbbbbbbbbbbbb\nbbbbbbbbbbbbbbbbbbbbb\n"
+}
